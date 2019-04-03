@@ -20,3 +20,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
+## License
+
+All rights reserved by Bot Group LLC. You may learn from the code but this app and its code are owned by Bot Group LLC.
