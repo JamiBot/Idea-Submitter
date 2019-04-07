@@ -2,7 +2,7 @@
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Let's Build an Idea Web App](https://youtu.be/20kFiZF-x7U).
 
-[![Let's Build an Idea Web App](https://img.youtube.com/vi/20kFiZF-x7U/0.jpg)](https://youtu.be/20kFiZF-x7U)
+[![Let's Build an Idea Web App](https://img.youtube.com/vi/20kFiZF-x7U/mqdefault.jpg)](https://youtu.be/20kFiZF-x7U)
 
 An example project in Angular where users can submit ideas for things.
 
