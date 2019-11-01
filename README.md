@@ -1,12 +1,12 @@
 # Idea Submitter
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Let's Build an Idea Web App](https://youtu.be/20kFiZF-x7U).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Let's Build an Idea Web App](https://youtu.be/20kFiZF-x7U).
 
 [![Let's Build an Idea Web App](https://img.youtube.com/vi/20kFiZF-x7U/maxresdefault.jpg)](https://youtu.be/20kFiZF-x7U)
 
 An example project in Angular where users can submit ideas for things.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development videos.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web & mobile development videos.
 
 ## Installation
 
